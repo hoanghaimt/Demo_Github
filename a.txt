@@ -1,2 +1,5 @@
 Tao ra file dau tien ne
+ nhanh2
+Tao ra xung dot tren "nhanh2"
 Tao file xung dot ben"master"
+ master
